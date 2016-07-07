@@ -1,4 +1,4 @@
-# Signals_from_Mars
+# Signals from Mars
 An exercise in interactive storytelling.
 
 ![Signals from Mars](/Signals from Mars.png?raw=true)
