@@ -1,5 +1,5 @@
 # Signals from Mars
-An exercise in interactive storytelling.
+An exercise in interactive Android storytelling.
 
 ![Signals from Mars](/Signals from Mars.png?raw=true)
 
